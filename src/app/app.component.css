@@ -1,0 +1,31 @@
+div {
+  margin: 5px;
+}
+
+button {
+  margin: 2px;
+  font-family: 'Handlee', cursive;
+}
+
+.last_utter {
+  font-family: 'Handlee', cursive;
+  font-size: xxx-large;
+  text-align: justify;
+  line-height: normal;
+}
+
+span {
+  font-family: 'Handlee', cursive;
+}
+
+mat-form-field {
+  width: 80%;
+  height: 30%;
+}
+
+textarea {
+  font-family: 'Handlee', cursive;
+  font-size: x-large;
+  text-align: justify;
+  line-height: normal;
+}
